@@ -94,11 +94,11 @@ body {
 
     display: grid;
 
-    gap: 1rem;
+    gap: 1.5rem;
 
     max-width: var(--max-content-width);
 
-	margin-block: 4rem;
+	margin-block: 8rem;
 }
 
 .card > *:not(picture,img) {
@@ -146,7 +146,7 @@ ol li::marker {
 
 @media only screen and (min-width: 768px) {
     .card {
-        padding: 2rem;
+        padding: 2.5rem;
     }
 
     .card > *:not(picture,img,.preparation-time) {
