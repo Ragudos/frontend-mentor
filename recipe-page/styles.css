@@ -90,11 +90,11 @@ body {
 .card {
     background-color: hsl(var(--clr-neutral-white));
 
-    border-radius: 1rem;
+    border-radius: 2rem;
 
     display: grid;
 
-    gap: 1.5rem;
+    gap: 2.5rem;
 
     max-width: var(--max-content-width);
 
@@ -107,7 +107,7 @@ body {
 
 img,
 .preparation-time {
-    border-radius: 0.5rem;
+    border-radius: 1rem;
 }
 
 .font-600 {
