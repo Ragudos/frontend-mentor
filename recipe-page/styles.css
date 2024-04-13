@@ -98,7 +98,7 @@ body {
 
     max-width: var(--max-content-width);
 
-	padding-block: 4rem;
+	margin-block: 4rem;
 }
 
 .card > *:not(picture,img) {
