@@ -31,7 +31,7 @@ h3, .h3,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
-    font-weight: 700;
+    font-weight: 600;
 
     margin-bottom: 0.5rem;
 }
@@ -90,7 +90,7 @@ body {
 .card {
     background-color: hsl(var(--clr-neutral-white));
 
-    border-radius: 2rem;
+    border-radius: 1.5rem;
 
     display: grid;
 
@@ -107,7 +107,7 @@ body {
 
 img,
 .preparation-time {
-    border-radius: 1rem;
+    border-radius: 0.75rem;
 }
 
 .font-600 {
