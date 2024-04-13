@@ -97,6 +97,8 @@ body {
     gap: 1rem;
 
     max-width: var(--max-content-width);
+
+	padding-block: 4rem;
 }
 
 .card > *:not(picture,img) {
